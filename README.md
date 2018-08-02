@@ -4,4 +4,4 @@ Contains teaching materials for the [NYU Stern, Data Bootcamp course](https://gi
 
 - Syllabus and handouts
 - Problem sets
-- Reference material (Notes and other useful material for learning about Data Science + Economics)
+- [Reference material](https://github.com/nyusterndatabootcamp/teaching_materials/tree/master/reference_material) (Notes and other useful material for learning about Data Science + Economics)
